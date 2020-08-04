@@ -1,4 +1,4 @@
-<h1 align="center">### Hi 👋, I'm Tapiwa N. Matare</h1>
+<h1 align="center">Hi 👋, I'm Tapiwa N. Matare</h1>
 <h3 align="center">A 4th year Mechatronics Engineering Student</h3>
 
 <!--
