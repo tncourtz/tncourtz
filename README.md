@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<a href="https://linkedin.com/in/Tapiwa N." target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tapiwa n. matare" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/TNMATARE" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tapiwa n. matare" height="30" width="30" /></a>
 </p>
