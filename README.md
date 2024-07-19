@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tapiwa N. Matare</h1>
-<h2 align="center">A 4th year Mechatronics Engineering Student at the University of Cape Town</h2>
 <br>
 
 <!--
@@ -18,11 +17,11 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on **Application of Reinforcement Learning and Evolutionary Algorithms to Energy Management Systems of an Electric Vehicle Charging Station**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **Full Stack and specialized Machine Learning**
+- 🌱 I’m currently learning ****
 
-- 📫 How to reach me **MTRTAP003@myuct.ac.za, TNCOURTZ@gmail.com**
+- 📫 How to reach me **tncourtz@gmail.com**
 
 <p align="center"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
   
