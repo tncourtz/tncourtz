@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on ****
+- 🔭 I’m currently working on **a web app using Backstage to streamline visa applications and assist the applicants through their application process.**
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **advanced cloud automation and Azure networking**
 
 - 📫 How to reach me **tncourtz@gmail.com**
 
